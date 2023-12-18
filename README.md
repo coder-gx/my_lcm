@@ -11,4 +11,4 @@ WebUI部署
 [webui](https://github.com/coder-gx/my_lcm/tree/main/webui.ipynb)
 
 huggingface主页
-[my_huggingface](https://huggingface.co/XanderGong/my-lcm)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/XanderGong/my-lcm)
