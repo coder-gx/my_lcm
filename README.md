@@ -1,4 +1,5 @@
 # my_lcm
 LCM复现仓库
 
- [Colab](https://github.com/my_lcm/lcm)
+
+ [lcm](https://github.com/coder-gx/my_lcm/blob/main/lcm.ipynb)https://github.com/coder-gx/my_lcm/blob/main/lcm.ipynb)
